@@ -1,0 +1,135 @@
+\begin{thebibliography}{10}
+
+\bibitem{b01}
+Jian~Pei Jiawei~Han, Micheline~Kamber.
+\newblock {\em 数据挖掘概念与技术}.
+\newblock 机械工业出版社, 2012.
+
+\bibitem{ref01}
+Maria Halkidi, Diomidis Spinellis, George Tsatsaronis, and Michalis
+  Vazirgiannis.
+\newblock Data mining in software engineering.
+\newblock {\em Intelligent Data Analysis}, 15(3):413--441, 2011.
+
+\bibitem{ref03}
+Manoel Mendonca and NL~Sunderhaft.
+\newblock Mining software engineering data: a survey, dacs state-of-the-art
+  report.
+\newblock {\em Contract Number SPO700-98-D-4000 (Data \& Analysis Center for
+  Software)}, 1999.
+
+\bibitem{ref02}
+Tao Xie, Jian Pei, and Ahmed~E Hassan.
+\newblock Mining software engineering data.
+\newblock In {\em Software Engineering-Companion, 2007. ICSE 2007 Companion.
+  29th International Conference on}, pages 172--173. IEEE, 2007.
+
+\bibitem{ref04}
+M~Venkatadri, C~Reddy Lokanatha, et~al.
+\newblock A review on data mining from past to the future.
+\newblock {\em International Journal of Computer Applications}, 15(7):19--22,
+  2011.
+
+\bibitem{jain1999data}
+Anil~K Jain, M~Narasimha Murty, and Patrick~J Flynn.
+\newblock Data clustering: a review.
+\newblock {\em ACM computing surveys (CSUR)}, 31(3):264--323, 1999.
+
+\bibitem{hayes2003improving}
+Jane~Huffman Hayes, Alex Dekhtyar, and James Osborne.
+\newblock Improving requirements tracing via information retrieval.
+\newblock In {\em Requirements Engineering Conference, 2003. Proceedings. 11th
+  IEEE International}, pages 138--147. IEEE, 2003.
+
+\bibitem{hayes2005text}
+Jane~Huffman Hayes, Alex Dekhtyar, and Senthil Sundaram.
+\newblock Text mining for software engineering: how analyst feedback impacts
+  final results.
+\newblock {\em ACM SIGSOFT Software Engineering Notes}, 30(4):1--5, 2005.
+
+\bibitem{german2003automating}
+Daniel German and Audris Mockus.
+\newblock Automating the measurement of open source projects.
+\newblock In {\em Proceedings of the 3rd workshop on open source software
+  engineering}, pages 63--67. Citeseer, 2003.
+
+\bibitem{jensen2004data}
+Chris Jensen and Walt Scacchi.
+\newblock Data mining for software process discovery in open source software
+  development communities.
+\newblock In {\em Proc. Workshop on Mining Software Repositories}, pages
+  96--100. IET, 2004.
+
+\bibitem{williams2005automatic}
+Chadd~C Williams and Jeffrey~K Hollingsworth.
+\newblock Automatic mining of source code repositories to improve bug finding
+  techniques.
+\newblock {\em Software Engineering, IEEE Transactions on}, 31(6):466--480,
+  2005.
+
+\bibitem{li2012sample}
+Ming Li, Hongyu Zhang, Rongxin Wu, and Zhi-Hua Zhou.
+\newblock Sample-based software defect prediction with active and
+  semi-supervised learning.
+\newblock {\em Automated Software Engineering}, 19(2):201--230, 2012.
+
+\bibitem{morisaki2007defect}
+Shuji Morisaki, Akito Monden, Tomoko Matsumura, Haruaki Tamada, and Ken-ichi
+  Matsumoto.
+\newblock Defect data analysis based on extended association rule mining.
+\newblock In {\em Proceedings of the Fourth International Workshop on Mining
+  Software Repositories}, page~3. IEEE Computer Society, 2007.
+
+\bibitem{chang2008discovering}
+Ray-Yaung Chang, Andy Podgurski, and Jiong Yang.
+\newblock Discovering neglected conditions in software by mining dependence
+  graphs.
+\newblock {\em Software Engineering, IEEE Transactions on}, 34(5):579--596,
+  2008.
+
+\bibitem{dickinson2001finding}
+William Dickinson, David Leon, and Andy Podgurski.
+\newblock Finding failures by cluster analysis of execution profiles.
+\newblock In {\em Proceedings of the 23rd international conference on Software
+  engineering}, pages 339--348. IEEE Computer Society, 2001.
+
+\bibitem{last2003data}
+Mark Last, Menahem Friedman, and Abraham Kandel.
+\newblock The data mining approach to automated software testing.
+\newblock In {\em Proceedings of the ninth ACM SIGKDD international conference
+  on Knowledge discovery and data mining}, pages 388--396. ACM, 2003.
+
+\bibitem{zimmermann2007predicting}
+Thomas Zimmermann, Rahul Premraj, and Andreas Zeller.
+\newblock Predicting defects for eclipse.
+\newblock In {\em Predictor Models in Software Engineering, 2007. PROMISE'07:
+  ICSE Workshops 2007. International Workshop on}, pages 9--9. IEEE, 2007.
+
+\bibitem{khoshgoftaar1996detection}
+Taghi~M Khoshgoftaar, Edward~B Allen, Nishith Goel, Amit Nandi, and John
+  McMullan.
+\newblock Detection of software modules with high debug code churn in a very
+  large legacy system.
+\newblock In {\em Software Reliability Engineering, 1996. Proceedings., Seventh
+  International Symposium on}, pages 364--371. IEEE, 1996.
+
+\bibitem{graves2000predicting}
+Todd~L Graves, Alan~F Karr, James~S Marron, and Harvey Siy.
+\newblock Predicting fault incidence using software change history.
+\newblock {\em Software Engineering, IEEE Transactions on}, 26(7):653--661,
+  2000.
+
+\bibitem{ostrand2005predicting}
+Thomas~J Ostrand, Elaine~J Weyuker, and Robert~M Bell.
+\newblock Predicting the location and number of faults in large software
+  systems.
+\newblock {\em Software Engineering, IEEE Transactions on}, 31(4):340--355,
+  2005.
+
+\bibitem{hudepohl1996emerald}
+John~P. Hudepohl, Stephen~J Aud, Taghi~M. Khoshgoftaar, Edward~B Allen, and
+  Jean Mayrand.
+\newblock Emerald: Software metrics and models on the desktop.
+\newblock {\em Software, IEEE}, 13(5):56--60, 1996.
+
+\end{thebibliography}
